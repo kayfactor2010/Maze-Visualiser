@@ -31,15 +31,15 @@ Screenshots:
 
 Prim's Algorithm:
 
-![Prim's Algorithm][screenshots/prims]
+![Prim's Algorithm](screenshots/prims)
 
 DFS Pathfinding:
 
-![Depth First Search][screenshots/dfs]
+![Depth First Search](screenshots/dfs)
 
 A* Search:
 
-![A* Search][screenshots/astar]
+![A* Search](screenshots/astar)
 
 How to Run:
 1: Install dependencies 'pip install -r requirements.txt'
